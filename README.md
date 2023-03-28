@@ -2,9 +2,12 @@
 
 ## Prompt
 ```
-Write a simple TODO app using FastAPI, that lets a user add TODOs, list their TODOs, delete TODOs, and update TODOs.
+Write a simple TODO app using FastAPI, that lets a user 
+add TODOs, list their TODOs, delete TODOs, and update TODOs.
 
-Include a `__main__` section which will run this app using uvicorn. The python module where I save this code will be called `main.py`.
+Include a `__main__` section which will run this app 
+using uvicorn. The python module where I save this code 
+will be called `main.py`.
 ```
 
 ## Run
